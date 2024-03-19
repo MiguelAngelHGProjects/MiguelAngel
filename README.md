@@ -20,11 +20,11 @@
   ![Ruby on Rails](https://img.icons8.com/ios-filled/50/000000/ruby-programming-language.png)
 
 - **Bases de datos:**
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+ ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+  ![PostgreSQL](https://img.icons8.com/ios-filled/50/000000/postgresql.png)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-  ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
-  
+  ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
+ 
 - **Herramientas y tecnologías adicionales:**
   ![Docker](https://img.icons8.com/color/48/000000/docker.png)
   ![Git](https://img.icons8.com/color/48/000000/git.png)
