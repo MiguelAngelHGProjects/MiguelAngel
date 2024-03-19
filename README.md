@@ -1,4 +1,4 @@
-# Hello, I'm Miguel Angel Hernandez Gacria! 👋
+# Hello, I'm Miguel Angel Hernandez Garcia! 👋
 
 ![Hello](https://media.giphy.com/media/3ov9k5xuQ7j2c9XmWk/giphy.gif)
 
