@@ -28,8 +28,6 @@
 - **Herramientas y tecnologías adicionales:**
   ![Docker](https://img.icons8.com/color/48/000000/docker.png)
   ![Git](https://img.icons8.com/color/48/000000/git.png)
-  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-  ![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
   ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
 ## Mis intereses 🌐
