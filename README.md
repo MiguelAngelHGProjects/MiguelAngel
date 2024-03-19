@@ -20,9 +20,8 @@
   ![Ruby on Rails](https://img.icons8.com/ios-filled/50/000000/ruby-programming-language.png)
 
 - **Bases de datos:**
- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-![Postgress](https://github.com/MiguelAngelHGProjects/MiguelAngelHGProjects/assets/118464286/c1d9ceed-41a4-4a77-af77eb2cf2c6967e)
-
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
  
