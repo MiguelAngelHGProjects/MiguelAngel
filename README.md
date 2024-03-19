@@ -21,7 +21,7 @@
 
 - **Bases de datos:**
   ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![PostgreSQL](https://www.flaticon.es/iconogratis/postgre_5968342term=postgres&page=1&position=1&origin=search&related_id=5968342)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
  
