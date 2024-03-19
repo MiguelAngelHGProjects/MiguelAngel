@@ -1,21 +1,40 @@
-# Hello, I'm Miguel Angel Hernandez Garcia! 👋
+# ¡Hola, soy Miguel Angel Hernandez Gacria! 👋
 
-![Hello](https://media.giphy.com/media/3ov9k5xuQ7j2c9XmWk/giphy.gif)
+## Sobre mí 🚀
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack apasionado por la creación de aplicaciones multiplataforma. Mi enfoque se centra en construir soluciones robustas y elegantes que funcionen en una variedad de dispositivos y sistemas operativos.
 
-## About me 🚀
-Welcome to my GitHub profile! I'm a passionate fullstack developer specializing in building cross-platform applications. My focus is on creating robust and elegant solutions that work across a variety of devices and operating systems.
+## Mis habilidades 💻
+- **Frontend:**
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+  ![React](https://img.icons8.com/plasticine/48/000000/react.png)
+  ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+  ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+  
+- **Backend:**
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  ![Express.js](https://img.icons8.com/color/48/000000/express.png)
+  ![Python](https://img.icons8.com/color/48/000000/python.png)
+  ![Ruby on Rails](https://img.icons8.com/ios-filled/50/000000/ruby-programming-language.png)
 
-## My skills 💻
-- **Frontend:** JavaScript, TypeScript, HTML, CSS, React, Angular, Vue.js
-- **Backend:** Node.js, Express, Python, Ruby on Rails
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **Additional tools and technologies:** Docker, Git, AWS, Heroku, Firebase
+- **Bases de datos:**
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+  ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
+  
+- **Herramientas y tecnologías adicionales:**
+  ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+  ![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
+  ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
-![Projects](https://media.giphy.com/media/xT0Gqz4kH0P1qg9jnC/giphy.gif)
+## Mis intereses 🌐
+Me encanta explorar nuevas tecnologías y encontrar formas innovadoras de resolver problemas. Además de programar, disfruto del diseño de interfaces de usuario y la experiencia del usuario.
 
-## My interests 🌐
-I love exploring new technologies and finding innovative ways to solve problems. In addition to programming, I enjoy UI/UX design and creating engaging user experiences.
+![Conectemos](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-![Let's connect](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
-Thank you for visiting my profile! I'm excited to connect with you and collaborate on interesting projects. 🔗
+¡Gracias por visitar mi perfil! Estoy emocionado por conectarme contigo y colaborar en proyectos interesantes. 🔗
