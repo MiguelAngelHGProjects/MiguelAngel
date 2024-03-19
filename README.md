@@ -21,7 +21,7 @@
 
 - **Bases de datos:**
  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-  ![PostgreSQL](https://iconduck.com/icons/144798/postgresql)
+  ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
  
