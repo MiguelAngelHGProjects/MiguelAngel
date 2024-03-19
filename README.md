@@ -21,7 +21,7 @@
 
 - **Bases de datos:**
  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
-  ![PostgreSQL]([https://img.icons8.com/ios-filled/50/000000/postgresql.png](https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png)
+  ![PostgreSQL](https://img.icons8.com/ios-filled/50/000000/postgresql.png)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![SQLite](https://img.icons8.com/ios-filled/50/000000/sqlite.png)
  
