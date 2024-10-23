@@ -1,4 +1,4 @@
-# ¡Hola, soy Miguel Angel Hernandez Gacria! 👋
+# ¡Hola, soy Miguel Angel Hernandez Garcia! 👋
 
 ## Sobre mí 🚀
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack apasionado por la creación de aplicaciones multiplataforma. Mi enfoque se centra en construir soluciones robustas y elegantes que funcionen en una variedad de dispositivos y sistemas operativos.
